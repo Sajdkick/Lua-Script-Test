@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lua Test", "Assembly-CSharp-firstpass.csproj", "{383554AE-83F7-BA3E-963E-F265D04D9633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lua Test", "Assembly-CSharp.csproj", "{05DDDCE2-DD91-00D2-33F1-85ABAA37D390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{383554AE-83F7-BA3E-963E-F265D04D9633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383554AE-83F7-BA3E-963E-F265D04D9633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383554AE-83F7-BA3E-963E-F265D04D9633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383554AE-83F7-BA3E-963E-F265D04D9633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05DDDCE2-DD91-00D2-33F1-85ABAA37D390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05DDDCE2-DD91-00D2-33F1-85ABAA37D390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05DDDCE2-DD91-00D2-33F1-85ABAA37D390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05DDDCE2-DD91-00D2-33F1-85ABAA37D390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
